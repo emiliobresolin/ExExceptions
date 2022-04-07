@@ -1,0 +1,16 @@
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\bin\Debug\net5.0\ExExceptions.exe
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\bin\Debug\net5.0\ExExceptions.deps.json
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\bin\Debug\net5.0\ExExceptions.runtimeconfig.json
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\bin\Debug\net5.0\ExExceptions.runtimeconfig.dev.json
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\bin\Debug\net5.0\ExExceptions.dll
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\bin\Debug\net5.0\ref\ExExceptions.dll
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\bin\Debug\net5.0\ExExceptions.pdb
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ExExceptions.csproj.AssemblyReference.cache
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ExExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ExExceptions.AssemblyInfoInputs.cache
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ExExceptions.AssemblyInfo.cs
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ExExceptions.csproj.CoreCompileInputs.cache
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ExExceptions.dll
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ref\ExExceptions.dll
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ExExceptions.pdb
+D:\DEV\CERTIFICADOS\UDEMY\PROJETOS UDEMY\ExExceptions\ExExceptions\ExExceptions\obj\Debug\net5.0\ExExceptions.genruntimeconfig.cache
